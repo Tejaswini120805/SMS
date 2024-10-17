@@ -1,0 +1,48 @@
+
+ 
+   
+ h1{
+   
+    background-color:aqua;
+    
+}
+body{
+    background-color: rgb(241, 244, 244);
+}    
+h2{
+            
+    font-style: italic;
+    font-display:center;
+    text-align:start;
+    text-indent: 0cqb;
+
+}
+h1{
+    font-size: 40px;
+    text-align:center;
+    padding:15px;
+    border: 12px solid;
+    margin: 12px;
+
+}
+nav a{
+    text-size-adjust: 20px;
+    text-decoration: none;
+    color:white;
+    text-align: center;
+    padding:20px;
+    background-color: black;
+
+}
+nav a:hover{
+    color: brown;
+}
+nav{
+    
+    overflow: hidden;
+    text-size-adjust: 20px;
+}
+p{
+    color: blue;
+    font-size: 15px;
+}
